@@ -51,7 +51,7 @@ const HomePage: React.FC = () => {
       <header className="bg-white shadow-md sticky top-0 z-50">
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
           <h1 className="text-3xl font-bold text-primary">
-            AN<b className="text-[red]">Store</b>
+            AF<b className="text-[red]">Store</b>
           </h1>
           <button className="bg-primary text-white px-4 py-2 rounded-md hover:bg-indigo-700 transition">
             🛒 Cart ({cart.length})
